@@ -2,9 +2,16 @@
 
 ### DataStructure
 ```
+HashTable
 Queue
 Stack
-```  
+```    
+
+### Search
+```
+Binary
+DepthFirst
+```
 
 ### Sort  
 ```
@@ -14,5 +21,6 @@ Heap
 Insertion
 Merge
 Quick
+Radix
 Selection
 ```
