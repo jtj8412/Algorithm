@@ -5,6 +5,7 @@
 HashTable
 Queue
 Stack
+Vector
 ```    
 
 ### Search
