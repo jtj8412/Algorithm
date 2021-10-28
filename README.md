@@ -11,6 +11,7 @@ Stack
 ```
 Binary
 DepthFirst
+BreadthFirst
 ```
 
 ### Sort  
